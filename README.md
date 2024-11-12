@@ -54,7 +54,7 @@ Hello! I’m **Marcos Abreu**, a **Front-End Developer** from Brazil. I speciali
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAbreu&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAbreu&langs_count=10&layout=compact&theme=radical&count_private=true&hide=prs)
 
 ---
 
