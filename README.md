@@ -40,7 +40,7 @@ Hello! I’m **Marcos Abreu**, a **Front-End Developer** from Brazil. I speciali
 
 ![MongoDB](https://img.icons8.com/color/30/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png) ![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
 
-- **Version Control**:
+**Version Control**:
 
 ![Git](https://img.icons8.com/color/30/git.png) ![GitHub](https://img.icons8.com/color/30/github.png)
 
